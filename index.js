@@ -16,6 +16,13 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
+app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const perCourse = course_details.filter((c) => c.course_id === id);
+  res.send(perCourse);
+});
+
 app.listen(port, () => {
   console.log("Course server is running", port);
 });
