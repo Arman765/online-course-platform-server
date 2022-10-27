@@ -3,144 +3,162 @@
     "id": "63577c782a0b48809b85e951",
     "course_id": "01",
     "title":"React course for Beginner",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
     "course_tutor": "Deanna Whitfield",
+    "description":"The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
     "price": "$16.99"
   },
   {
     "id": "63577c7808e455ca23e38f05",
     "course_id":"01",
-    "title":"React course Intermediate level",
-    "picture": "http://placehold.it/32x32",
+    "title":"React course Intermediate",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
     "course_tutor": "Selma Guthrie",
+    "description":"The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
     "price": "$16.99"
   },
   {
     "id": "63577c78236cd814c9a81c5e",
     "course_id": "01",
     "title":"React course with backend",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
     "course_tutor": "Maude Bright",
+    "description":"The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
     "price": "$16.99"
   },
   {
     "id": "63577c7879eb70771a540ad8",
     "course_id": "02",
     "title":"C++ course for Beginner",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
     "course_tutor": "Booth Robertson",
+    "description":"What is C++ Used For? C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.",
     "price": "$16.99"
   },
   {
     "id": "63577c78ca34e5d89ab08b2c",
     "course_id": "02",
     "title":"C++ course Advanced level",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
     "course_tutor": "Cochran Woods",
+    "description":"What is C++ Used For? C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.",
     "price": "$16.99"
   } ,
   {
     "id": "63577daf70952572c06159da",
     "course_id": "02",
     "title":"C++ course with projects",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
     "course_tutor": "Lessie Pace",
+    "description":"What is C++ Used For? C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.",
     "price": "$16.99"
   },
   {
     "id": "63577daff9aa2e1e58877e17",
     "course_id": "03",
     "title":"Python course for Beginner",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
     "course_tutor": "Elvira Velazquez",
+    "description":"Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
     "price": "$16.99"
   },
   {
     "id": "63577daff0444d3b2c3a4f9f",
     "course_id": "03",
     "title":"Python course for ML/DL",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
     "course_tutor": "Genevieve Delaney",
+    "description":"Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
     "price": "$16.99"
   },
   {
     "id": "63577dafbc32011ac61e2f6c",
     "course_id":"03",
-    "title":"Python course with different projects",
-    "picture": "http://placehold.it/32x32",
+    "title":"Python course with  projects",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
     "course_tutor": "Calhoun Knapp",
+    "description":"Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
     "price": "$16.99"
   },
   {
     "id": "63577daf57e2e532b0e15cbd",
     "course_id": "04",
     "title":"Node course for Beginner",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png",
     "course_tutor": "Jordan Gould",
+    "description":"It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind.",
     "price": "$16.99"
   },
   {
     "id": "63577daf285aa3c7636a250c",
     "course_id": "04",
     "title":"Node course Advanced level",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png",
     "course_tutor": "Nettie Phillips",
+    "description":"It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind.",
     "price": "$16.99"
   },
   {
     "id": "63577daf221f1c1277d1796d",
     "course_id": "04",
     "title":"Node course and Express.js",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png",
     "course_tutor": "Horton Richardson",
+    "description":"It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind.",
     "price": "$16.99"
   },
   {
     "id": "63577daf90dd7b4157fbba5f",
     "course_id": "05",
     "title":"MondgoDB course for Beginner",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo.gif",
     "course_tutor": "Mandy Norris",
+    "description":"MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies.",
     "price": "$16.99"
   },
   {
     "id": "63577daf2d160f7dc854df26",
     "course_id": "05",
     "title":"MondgoDB course with Frontend",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo.gif",
     "course_tutor": "Noreen Foreman",
+    "description":"MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies.",
     "price": "$16.99"
   },
   {
     "id": "63577daf7757105b61cdc1f0",
     "course_id": "05",
     "title":"MondgoDB course with Fullstack using react",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo.gif",
     "course_tutor": "Coffey Richards",
+    "description":"MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies.",
     "price": "$16.99"
   },
   {
     "id": "63577daf7da466ab1598c645",
     "course_id": "06",
     "title":"Bootstrap course for Beginner",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
     "course_tutor": "Stacy Hardin",
+    "description":"Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.",
     "price": "$16.99"
   },
   {
-    "id": "63577daf7da466ab1598c645",
+    "id": "63577daf7da466ab1764c645",
     "course_id": "06",
-    "title":"Bootstrap course With React",
-    "picture": "http://placehold.it/32x32",
+    "title":"Bootstrap course With React library",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
     "course_tutor": "Stacy Hardin",
+    "description":"Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.",
     "price": "$16.99"
   },
   {
-    "id": "63577daf7da466ab1598c645",
+    "id": "63577daf7da466ab1765c645",
     "course_id": "06",
     "title":"Bootstrap course With React Fullstack",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
     "course_tutor": "Stacy Hardin",
+    "description":"Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.",
     "price": "$16.99"
   }
 ]
